@@ -1,0 +1,9 @@
+# Write your default config options here!
+# vim: ft=mplayerconf
+
+# assume subtitles are in utf8
+utf8=yes
+
+# default both audio and subtitles to english
+alang=en
+slang=en
